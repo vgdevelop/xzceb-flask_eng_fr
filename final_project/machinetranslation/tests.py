@@ -1,4 +1,4 @@
-from machinetranslation import translator as tr
+import translator as tr
 
 TEST1_FR = "Bonjour"
 TEST2_FR = "Chien"
